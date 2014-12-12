@@ -7,8 +7,6 @@ About
 -----
 **Mac OS X**
 
-* curl/7.39.0 (x86_64-apple-darwin14.0.0) 
-
 * libcurl/7.39.0
 * OpenSSL/1.0.1g 
 * zlib/1.2.8 
@@ -17,7 +15,6 @@ About
  
 **Windows**
 
-* curl/7.39.0 (i686-pc-mingw32)  
 * libcurl/7.39.0 
 * OpenSSL/1.0.1j
 * ~~zlib/1.2.8~~ 
