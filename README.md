@@ -17,7 +17,7 @@ About
  
 Protocols|Mac|Linux
 ---------|---|-----
-dict | M | U
+dict | ☑️ | U
 file | M | U
 ftp | M | U
 ftps | M | U
