@@ -15,27 +15,34 @@ About
 * libidn/1.29 
 * libssh2/1.4.3
  
-Protocols|Mac|Linux
----------|---|-----
-dict|⭐️|⭐️
-file|⭐️|⭐️
-ftp|⭐️|⭐️
-ftps|⭐️|⭐️
-gopher|⭐️|⭐️
-http|⭐️|⭐️
-https|⭐️|⭐️
-imap|⭐️|⭐️
-imaps|⭐️|⭐️
-ldap|⭐️|⭐️
-ldaps|⭐️|⭐️
-pop3|⭐️|⭐️
-pop3s|⭐️|⭐️
-rtsp|⭐️|⭐️
-rtmp| |⭐️
-scp|⭐️|
-sftp|⭐️|
-smtp|⭐️|⭐️
-smtps|⭐️|⭐️
-telnet|⭐️|⭐️
-tftp|⭐️|⭐️
+**Windows**
+
+* curl/7.39.0 (i686-pc-mingw32)  
+
+* libcurl/7.39.0 
+* libssh2/1.4.3
+
+Protocols|Mac|Linux|Windows
+---------|---|-----|-------
+dict|⭐️|⭐️|⭐️
+file|⭐️|⭐️|⭐️
+ftp|⭐️|⭐️|⭐️
+ftps|⭐️|⭐️|
+gopher|⭐️|⭐️|⭐️
+http|⭐️|⭐️|⭐️
+https|⭐️|⭐️|
+imap|⭐️|⭐️|⭐️
+imaps|⭐️|⭐️|
+ldap|⭐️|⭐️|⭐️
+ldaps|⭐️|⭐️|⭐️
+pop3|⭐️|⭐️|⭐️
+pop3s|⭐️|⭐️|
+rtsp|⭐️|⭐️|⭐️
+rtmp| |⭐️|
+scp|⭐️||⭐️
+sftp|⭐️||⭐️
+smtp|⭐️|⭐️|⭐️
+smtps|⭐️|⭐️|
+telnet|⭐️|⭐️|⭐️
+tftp|⭐️|⭐️|⭐️
 
