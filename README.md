@@ -17,9 +17,9 @@ About
  
 Protocols|Mac|Linux
 ---------|---|-----
-dict | ☑️ | U
-file | M | U
-ftp | M | U
+dict |⭐️| ⭐️
+file | ⭐️ | ⭐️
+ftp | ⭐️ | ⭐️
 ftps | M | U
 gopher |M|U
 http |M|U
