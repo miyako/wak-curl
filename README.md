@@ -15,11 +15,12 @@ About
 * libidn/1.29 
 * libssh2/1.4.3
  
-Protocols
-dict |M|U
-file |M|U
-ftp |M|U
-ftps |M|U
+Protocols|Mac|Linux
+-------------------
+dict | M | U
+file | M | U
+ftp | M | U
+ftps | M | U
 gopher |M|U
 http |M|U
 https |M|U
