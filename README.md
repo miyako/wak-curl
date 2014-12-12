@@ -20,6 +20,7 @@ About
 * curl/7.39.0 (i686-pc-mingw32)  
 
 * libcurl/7.39.0 
+* OpenSSL/1.0.1j
 * libssh2/1.4.3
 
 Protocols|Mac|Linux|Windows
@@ -27,22 +28,22 @@ Protocols|Mac|Linux|Windows
 dict|⭐️|⭐️|⭐️
 file|⭐️|⭐️|⭐️
 ftp|⭐️|⭐️|⭐️
-ftps|⭐️|⭐️|
+ftps|⭐️|⭐️|⭐️
 gopher|⭐️|⭐️|⭐️
 http|⭐️|⭐️|⭐️
-https|⭐️|⭐️|
+https|⭐️|⭐️|⭐️
 imap|⭐️|⭐️|⭐️
-imaps|⭐️|⭐️|
+imaps|⭐️|⭐️|⭐️
 ldap|⭐️|⭐️|⭐️
 ldaps|⭐️|⭐️|⭐️
 pop3|⭐️|⭐️|⭐️
-pop3s|⭐️|⭐️|
+pop3s|⭐️|⭐️|⭐️
 rtsp|⭐️|⭐️|⭐️
 rtmp| |⭐️|
-scp|⭐️||⭐️
-sftp|⭐️||⭐️
+scp|⭐️||⭐️⭐️
+sftp|⭐️||⭐️⭐️
 smtp|⭐️|⭐️|⭐️
-smtps|⭐️|⭐️|
+smtps|⭐️|⭐️|⭐️
 telnet|⭐️|⭐️|⭐️
 tftp|⭐️|⭐️|⭐️
 
@@ -50,11 +51,11 @@ Features|Mac|Linux|Windows
 --------|---|-----|-------
 IDN|⭐️|⭐️
 IPv6|⭐️|⭐️
-Largefile|⭐️|⭐️
-NTLM|⭐️|⭐️
+Largefile|⭐️|⭐️|⭐️
+NTLM|⭐️|⭐️|⭐️
 NTLM_WB|⭐️|⭐️
-SSL|⭐️|⭐️
+SSL|⭐️|⭐️|⭐️
 libz|⭐️|⭐️
-TLS-SRP|⭐️|⭐️
+TLS-SRP|⭐️|⭐️|⭐️
 AsynchDNS||⭐️
 GSS-Negotiate||⭐️
