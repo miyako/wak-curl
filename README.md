@@ -17,25 +17,25 @@ About
  
 Protocols|Mac|Linux
 ---------|---|-----
-dict |⭐️| ⭐️
-file | ⭐️ | ⭐️
-ftp | ⭐️ | ⭐️
-ftps | M | U
-gopher |M|U
-http |M|U
-https |M|U
-imap |M|U
-imaps |M|U
-ldap |M|U
-ldaps |M|U
-pop3|M|U
-pop3s |M|U
-rtsp |M|U
-rtmp|-|U
-scp|M|-
-sftp |M|-
-smtp |M|U
-smtps |M|U
-telnet |M|U
-tftp |M|U
+dict|⭐️|⭐️
+file|⭐️|⭐️
+ftp|⭐️|⭐️
+ftps|⭐️|⭐️
+gopher|⭐️|⭐️
+http|⭐️|⭐️
+https|⭐️|⭐️
+imap|⭐️|⭐️
+imaps|⭐️|⭐️
+ldap|⭐️|⭐️
+ldaps|⭐️|⭐️
+pop3|⭐️|⭐️
+pop3s|⭐️|⭐️
+rtsp|⭐️|⭐️
+rtmp| |⭐️
+scp|⭐️|
+sftp|⭐️|
+smtp|⭐️|⭐️
+smtps|⭐️|⭐️
+telnet|⭐️|⭐️
+tftp|⭐️|⭐️
 
