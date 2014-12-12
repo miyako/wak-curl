@@ -46,3 +46,15 @@ smtps|⭐️|⭐️|
 telnet|⭐️|⭐️|⭐️
 tftp|⭐️|⭐️|⭐️
 
+Features|Mac|Linux|Windows
+--------|---|-----|-------
+IDN|⭐️|⭐️
+IPv6|⭐️|⭐️
+Largefile|⭐️|⭐️
+NTLM|⭐️|⭐️
+NTLM_WB|⭐️|⭐️
+SSL|⭐️|⭐️
+libz|⭐️|⭐️
+TLS-SRP|⭐️|⭐️
+AsynchDNS||⭐️
+GSS-Negotiate||⭐️
