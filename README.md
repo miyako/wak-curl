@@ -18,7 +18,6 @@ About
 **Windows**
 
 * curl/7.39.0 (i686-pc-mingw32)  
-
 * libcurl/7.39.0 
 * OpenSSL/1.0.1j
 * ~~zlib/1.2.8~~ 
