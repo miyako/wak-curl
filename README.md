@@ -16,7 +16,7 @@ About
 * libssh2/1.4.3
  
 Protocols|Mac|Linux
--------------------
+---------|---|-----
 dict | M | U
 file | M | U
 ftp | M | U
