@@ -9,7 +9,7 @@ About
 
 * curl/7.39.0 (x86_64-apple-darwin14.0.0) 
 
-* libcurl/7.39.0 
+* libcurl/7.39.0
 * OpenSSL/1.0.1g 
 * zlib/1.2.8 
 * libidn/1.29 
@@ -21,6 +21,8 @@ About
 
 * libcurl/7.39.0 
 * OpenSSL/1.0.1j
+* ~~zlib/1.2.8~~ 
+* ~~libidn/1.29~~ 
 * libssh2/1.4.3
 
 Protocols|Mac|Linux|Windows
