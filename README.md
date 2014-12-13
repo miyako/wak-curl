@@ -30,29 +30,29 @@ About
 * libidn/1.29
 * libssh2/1.4.3 
 
-Protocols|Mac|Linux|Windows
----------|---|-----|-------|
-dict| ⭐️ | ⭐️ | ⭐️ |
-file| ⭐️ | ⭐️ | ⭐️ |
-ftp| ⭐️ | ⭐️ | ⭐️ |
-ftps| ⭐️ | ⭐️ | ⭐️ |
-gopher| ⭐️ | ⭐️ | ⭐️ |
-http| ⭐️ | ⭐️ | ⭐️ |
-https| ⭐️ | ⭐️ | ⭐️ |
-imap| ⭐️ | ⭐️ | ⭐️ |
-imaps| ⭐️ | ⭐️ | ⭐️ |
-ldap| ⭐️ | ⭐️ | ⭐️ |
-ldaps| ⭐️ | ⭐️ | |
-pop3| ⭐️ | ⭐️ | ⭐️ |
-pop3s| ⭐️ | ⭐️ | ⭐️ |
-rtsp|  |  | ⭐️ |
-rtsp| ⭐️ | ⭐️ | ⭐️ |
-scp| ⭐️ | ⭐️ | ⭐️ |
-sftp| ⭐️ | ⭐️ | ⭐️ |
-smtp| ⭐️ | ⭐️ | ⭐️ |
-smtps| ⭐️ | ⭐️ | ⭐️ |
-telnet| ⭐️ | ⭐️ | ⭐️ |
-tftp| ⭐️ | ⭐️ | ⭐️ |
+|Protocols|Mac|Linux|Windows|
+|:-------:|:-:|:---:|:-----:|
+|dict| ⭐️ | ⭐️ | ⭐️ |
+|file| ⭐️ | ⭐️ | ⭐️ |
+|ftp| ⭐️ | ⭐️ | ⭐️ |
+|ftps| ⭐️ | ⭐️ | ⭐️ |
+|gopher| ⭐️ | ⭐️ | ⭐️ |
+|http| ⭐️ | ⭐️ | ⭐️ |
+|https| ⭐️ | ⭐️ | ⭐️ |
+|imap| ⭐️ | ⭐️ | ⭐️ |
+|imaps| ⭐️ | ⭐️ | ⭐️ |
+|ldap| ⭐️ | ⭐️ | ⭐️ |
+|ldaps| ⭐️ | ⭐️ | |
+|pop3| ⭐️ | ⭐️ | ⭐️ |
+|pop3s| ⭐️ | ⭐️ | ⭐️ |
+|rtsp|  |  | ⭐️ |
+|rtsp| ⭐️ | ⭐️ | ⭐️ |
+|scp| ⭐️ | ⭐️ | ⭐️ |
+|sftp| ⭐️ | ⭐️ | ⭐️ |
+|smtp| ⭐️ | ⭐️ | ⭐️ |
+|smtps| ⭐️ | ⭐️ | ⭐️ |
+|telnet| ⭐️ | ⭐️ | ⭐️ |
+|tftp| ⭐️ | ⭐️ | ⭐️ |
 
 Features|Mac|Linux|Windows
 --------|---|-----|-------
