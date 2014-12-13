@@ -18,7 +18,7 @@ About
 * libcurl/7.39.0
 * OpenSSL/1.0.1e
 * zlib/1.2.8
-* WINidn
+* libidn/1.28 
 * libssh2/1.4.3
 
 **Linux**
@@ -31,41 +31,37 @@ About
 
 |Protocol|Mac|Linux|Windows|
 |:-------:|:-:|:---:|:-----:|
-|dict| ⭐️ | ⭐️ | ⭐️ |
-|file| ⭐️ | ⭐️ | ⭐️ |
-|ftp| ⭐️ | ⭐️ | ⭐️ |
-|ftps| ⭐️ | ⭐️ | ⭐️ |
-|gopher| ⭐️ | ⭐️ | ⭐️ |
-|http| ⭐️ | ⭐️ | ⭐️ |
-|https| ⭐️ | ⭐️ | ⭐️ |
-|imap| ⭐️ | ⭐️ | ⭐️ |
-|imaps| ⭐️ | ⭐️ | ⭐️ |
-|ldap| ⭐️ | ⭐️ | ⭐️ |
-|ldaps| ⭐️ | ⭐️ | |
-|pop3| ⭐️ | ⭐️ | ⭐️ |
-|pop3s| ⭐️ | ⭐️ | ⭐️ |
-|rtsp|  |  | ⭐️ |
-|rtsp| ⭐️ | ⭐️ | ⭐️ |
-|scp| ⭐️ | ⭐️ | ⭐️ |
-|sftp| ⭐️ | ⭐️ | ⭐️ |
-|smtp| ⭐️ | ⭐️ | ⭐️ |
-|smtps| ⭐️ | ⭐️ | ⭐️ |
-|telnet| ⭐️ | ⭐️ | ⭐️ |
-|tftp| ⭐️ | ⭐️ | ⭐️ |
+|dict|⭕️|⭕️|⭕️|
+|file|⭕️|⭕️|⭕️|
+|ftp|⭕️|⭕️|⭕️|
+|ftps|⭕️|⭕️|⭕️|
+|gopher|⭕️|⭕️|⭕️|
+|http|⭕️|⭕️|⭕️|
+|https|⭕️|⭕️|⭕️|
+|imap|⭕️|⭕️|⭕️|
+|imaps|⭕️|⭕️|⭕️|
+|ldap|⭕️|⭕️|⭕️|
+|ldaps|⭕️|⭕️|⭕️|
+|pop3|⭕️|⭕️|⭕️|
+|pop3s|⭕️|⭕️|⭕️|
+|rtsp|⭕️|⭕️|⭕️|
+|scp|⭕️|⭕️|⭕️|
+|sftp|⭕️|⭕️|⭕️|
+|smtp|⭕️|⭕️|⭕️|
+|smtps|⭕️|⭕️|⭕️|
+|telnet|⭕️|⭕️|⭕️|
+|tftp|⭕️|⭕️|⭕️|
 
 |Feature|Mac|Linux|Windows|
 |:-----:|:-:|:---:|:-----:|
-|IDN|⭐️|⭐️|⭐️|
-|IPv6|⭐️|⭐️||
-|Largefile|⭐️|⭐️|⭐️|
-|NTLM|⭐️|⭐️|⭐️|
-|NTLM_WB|⭐️|⭐️||
-|SSL|⭐️|⭐️|⭐️|
-|libz|⭐️|⭐️|⭐️|
-|TLS-SRP|⭐️|⭐️||
-|SSPI|||⭐️|
-|AsyncDNS|||⭐️|
-|SPNEGO|||⭐️|
+|IDN|⭕️|⭕️|⭕️|
+|IPv6|⭕️|⭕️||
+|Largefile|⭕️|⭕️|⭕️|
+|NTLM|⭕️|⭕️|⭕️|
+|NTLM_WB|⭕️|⭕️||
+|SSL|⭕️|⭕️|⭕️|
+|libz|⭕️|⭕️|⭕️|
+|TLS-SRP|⭕️|⭕️||
 
 Example
 -------
