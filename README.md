@@ -58,10 +58,8 @@ About
 |IPv6|⭕️|⭕️||
 |Largefile|⭕️|⭕️|⭕️|
 |NTLM|⭕️|⭕️|⭕️|
-|NTLM_WB|⭕️|⭕️||
 |SSL|⭕️|⭕️|⭕️|
 |libz|⭕️|⭕️|⭕️|
-|TLS-SRP|⭕️|⭕️||
 
 Example
 -------
