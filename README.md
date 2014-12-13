@@ -62,7 +62,8 @@ Largefile|⭐️|⭐️|⭐️
 NTLM|⭐️|⭐️|⭐️
 NTLM_WB|⭐️|⭐️|
 SSL|⭐️|⭐️|⭐️
-libz|⭐️|⭐️|
-TLS-SRP|⭐️|⭐️|⭐️
+libz|⭐️|⭐️|⭐️
+TLS-SRP|⭐️|⭐️|
 SSPI|||⭐️
 AsyncDNS|||⭐️
+SPNEGO|||⭐️
