@@ -15,11 +15,12 @@ About
  
 **Windows**
 
-* ~~libcurl/7.39.0~~ 
-* ~~OpenSSL/1.0.1j~~
+* libcurl/7.39.0
+* OpenSSL/1.0.0o
 * zlib/1.2.8
-* libidn/1.29
-* ~~libssh2/1.4.3~~
+* WINidn
+* libssh2/1.4.3
+* librtmp/2.3
 
 **Linux**
 
@@ -41,9 +42,10 @@ https|⭐️|⭐️|⭐️
 imap|⭐️|⭐️|⭐️
 imaps|⭐️|⭐️|⭐️
 ldap|⭐️|⭐️|⭐️
-ldaps|⭐️|⭐️|⭐️
+ldaps|⭐️|⭐️|
 pop3|⭐️|⭐️|⭐️
 pop3s|⭐️|⭐️|⭐️
+rtsp|||⭐️
 rtsp|⭐️|⭐️|⭐️
 scp|⭐️|⭐️|⭐️
 sftp|⭐️|⭐️|⭐️
@@ -54,7 +56,7 @@ tftp|⭐️|⭐️|⭐️
 
 Features|Mac|Linux|Windows
 --------|---|-----|-------
-IDN|⭐️|⭐️|
+IDN|⭐️|⭐️|⭐️
 IPv6|⭐️|⭐️|
 Largefile|⭐️|⭐️|⭐️
 NTLM|⭐️|⭐️|⭐️
@@ -62,3 +64,5 @@ NTLM_WB|⭐️|⭐️|
 SSL|⭐️|⭐️|⭐️
 libz|⭐️|⭐️|
 TLS-SRP|⭐️|⭐️|⭐️
+SSPI|||⭐️
+AsyncDNS|||⭐️
