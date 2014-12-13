@@ -16,11 +16,10 @@ About
 **Windows**
 
 * libcurl/7.39.0
-* OpenSSL/1.0.0o
+* OpenSSL/1.0.1e
 * zlib/1.2.8
 * WINidn
 * libssh2/1.4.3
-* librtmp/2.3
 
 **Linux**
 
