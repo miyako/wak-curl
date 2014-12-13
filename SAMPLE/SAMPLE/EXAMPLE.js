@@ -1,0 +1,1 @@
+﻿var modulesFolder = FileSystemSync('Modules');var curl = require(modulesFolder.path + 'curl');curl.curl('-V').console.stdOut.toString();
