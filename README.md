@@ -23,7 +23,11 @@ About
 
 **Linux**
 
-
+* libcurl/7.39.0
+* OpenSSL/1.0.1j
+* zlib/1.2.8
+* libidn/1.29
+* libssh2/1.4.3 
 
 Protocols|Mac|Linux|Windows
 ---------|---|-----|-------
@@ -42,8 +46,8 @@ pop3|⭐️|⭐️|⭐️
 pop3s|⭐️|⭐️|⭐️
 rtsp|⭐️|⭐️|⭐️
 rtmp| |⭐️|
-scp|⭐️||⭐️
-sftp|⭐️||⭐️
+scp|⭐️|⭐️|⭐️
+sftp|⭐️|⭐️|⭐️
 smtp|⭐️|⭐️|⭐️
 smtps|⭐️|⭐️|⭐️
 telnet|⭐️|⭐️|⭐️
@@ -51,13 +55,11 @@ tftp|⭐️|⭐️|⭐️
 
 Features|Mac|Linux|Windows
 --------|---|-----|-------
-IDN|⭐️|⭐️
-IPv6|⭐️|⭐️
+IDN|⭐️|⭐️|
+IPv6|⭐️|⭐️|
 Largefile|⭐️|⭐️|⭐️
 NTLM|⭐️|⭐️|⭐️
-NTLM_WB|⭐️|⭐️
+NTLM_WB|⭐️|⭐️|
 SSL|⭐️|⭐️|⭐️
-libz|⭐️|⭐️
+libz|⭐️|⭐️|
 TLS-SRP|⭐️|⭐️|⭐️
-AsynchDNS||⭐️
-GSS-Negotiate||⭐️
