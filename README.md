@@ -30,7 +30,7 @@ About
 * libidn/1.29
 * libssh2/1.4.3 
 
-|Protocols|Mac|Linux|Windows|
+|Protocol|Mac|Linux|Windows|
 |:-------:|:-:|:---:|:-----:|
 |dict| ⭐️ | ⭐️ | ⭐️ |
 |file| ⭐️ | ⭐️ | ⭐️ |
@@ -54,16 +54,16 @@ About
 |telnet| ⭐️ | ⭐️ | ⭐️ |
 |tftp| ⭐️ | ⭐️ | ⭐️ |
 
-Features|Mac|Linux|Windows
---------|---|-----|-------
-IDN|⭐️|⭐️|⭐️
-IPv6|⭐️|⭐️|
-Largefile|⭐️|⭐️|⭐️
-NTLM|⭐️|⭐️|⭐️
-NTLM_WB|⭐️|⭐️|
-SSL|⭐️|⭐️|⭐️
-libz|⭐️|⭐️|⭐️
-TLS-SRP|⭐️|⭐️|
-SSPI|||⭐️
-AsyncDNS|||⭐️
-SPNEGO|||⭐️
+|Feature|Mac|Linux|Windows|
+|:-----:|:-:|:---:|:-----:|
+|IDN|⭐️|⭐️|⭐️|
+|IPv6|⭐️|⭐️||
+|Largefile|⭐️|⭐️|⭐️|
+|NTLM|⭐️|⭐️|⭐️|
+|NTLM_WB|⭐️|⭐️||
+|SSL|⭐️|⭐️|⭐️|
+|libz|⭐️|⭐️|⭐️|
+|TLS-SRP|⭐️|⭐️||
+|SSPI|||⭐️|
+|AsyncDNS|||⭐️|
+|SPNEGO|||⭐️|
