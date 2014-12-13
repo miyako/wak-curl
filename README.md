@@ -29,7 +29,7 @@ About
 * libidn/1.29
 * libssh2/1.4.3 
 
-|Protocol|Mac|Linux|Windows|
+|Protocol|Mac OS X|Linux|Windows|
 |:-------:|:-:|:---:|:-----:|
 |dict|⭕️|⭕️|⭕️|
 |file|⭕️|⭕️|⭕️|
@@ -52,7 +52,7 @@ About
 |telnet|⭕️|⭕️|⭕️|
 |tftp|⭕️|⭕️|⭕️|
 
-|Feature|Mac|Linux|Windows|
+|Feature|Mac OS X|Linux|Windows|
 |:-----:|:-:|:---:|:-----:|
 |IDN|⭕️|⭕️|⭕️|
 |IPv6|⭕️|⭕️||
