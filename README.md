@@ -18,7 +18,7 @@ About
 * libcurl/7.39.0
 * OpenSSL/1.0.1j
 * zlib/1.2.8
-* libidn/1.28 
+* libidn/1.29
 * libssh2/1.4.3
 
 **Linux**
