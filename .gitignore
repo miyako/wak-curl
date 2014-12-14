@@ -14,3 +14,9 @@ SAMPLE/SAMPLE/DataFolder/data.waData
 SAMPLE/SAMPLE/DataFolder/data.WakTDef
 
 SAMPLE/SAMPLE Solution/SAMPLE.miyako.waPreferences
+
+SAMPLE/SAMPLE Solution/breakpoints.json
+
+SAMPLE/SAMPLE/Logs/HTTPServer.waLog
+
+SAMPLE/SAMPLE Solution/sessionID.json

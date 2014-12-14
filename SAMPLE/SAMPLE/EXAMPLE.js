@@ -1,1 +1,1 @@
-﻿var modulesFolder = FileSystemSync('Modules');var curl = require(modulesFolder.path + 'curl');curl.curl('-V').console.stdOut.toString();
+﻿var modulesFolder = FileSystemSync('Modules');var curl = require(modulesFolder.path + 'curl');curl.curl('http://www.wakanda.org').console.stdOut.toString();
